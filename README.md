@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Azure Data Solutions**
 
-- 👨‍💻 All of my projects are available at [[Let's Go](https://github.com/<your_username>/<your_repository>)]
+- 👨‍💻 All of my projects are available at [[Let's Go](https://github.com/JimmyLouis0123)]
 
 - 💬 Ask me about **Data Analytics, Power BI, and AWS Solutions**
 
