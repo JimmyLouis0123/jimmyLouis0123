@@ -41,6 +41,6 @@
 <br/>
 <br/>
 <br/>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=<jimmylouis0123>&show_icons=true&locale=en" alt="" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jimmylouis0123&show_icons=true&locale=en" alt="" /></p>
 <br/>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=<your_username>&" alt="<your_username>" /></p>
