@@ -1,3 +1,6 @@
+
+![Jimmy (online-video-cutter com)](https://github.com/JimmyLouis0123/jimmyLouis0123/assets/150531658/a175fade-a835-4c8b-80b0-75c4faa4227f)
+
 <h1 align="center">Jimmy Louis</h1>
 <h1 align="center">👋,Call me.... JIM</h1>
 <h3 align="center">A highly analytical and data-driven professional</h3>
